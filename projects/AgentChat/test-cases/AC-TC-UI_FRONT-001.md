@@ -25,7 +25,7 @@ Verification of sending a message in a private chat
 | # | Action | Expected Result | Actual Result
 |---| :--- | :--- | :--- |
 | 1 | Open website: https://agentstack.tech/ | Main page https://agentstack.tech/ loads successfully | - |
-| 2 | Click on "Messenger" | Opens https://agentstack.tech/messenger | - |
+| 2 | Click on "Messages" | Opens https://agentstack.tech/messenger | - |
 | 3 | Select a chat from the "All Chats" folder | The selected chat opens | - |
 | 4 | Tap on the chat input field | Input field is active, text entry is available | Fail |
 | 5 | Enter text | Text appears in the input field | - |
